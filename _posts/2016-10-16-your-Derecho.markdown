@@ -2,7 +2,7 @@
 layout: post
 title: "Derecho"
 date: 2016-10-16
-categories: jekyll update
+categories: d
 ---
 
 ## A New Post
