@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Derecho"
+date: 2016-10-16
+categories: derecho
 ---
 
 ## A New Post
