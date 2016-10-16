@@ -1,12 +1,10 @@
-# dixde.github.io
-dicc
 
-¿Cómo usar?
+# ¿Cómo usar?
 
-Lugar donde se guardan los archivos `_posts` 
+Lugar donde se guardan los archivos es en la carpeta `_posts` 
 
 Nombre y extensión:
-AAAA-MM-DD-nombre-del-articulo.markdown
+`AAAA-MM-DD-nombre-del-articulo.markdown`
 
 Cómo agregar artículos  
 * **Paso 1:** Ir a la carpeta `_posts` 
