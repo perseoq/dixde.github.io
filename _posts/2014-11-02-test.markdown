@@ -2,7 +2,7 @@
 layout: post
 title:  "This is just a test"
 date:   2014-11-01 20:07:22
-categories: jekyll update
+categories: d
 ---
 
 Lorem ispums just some test.
