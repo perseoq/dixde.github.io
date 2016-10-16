@@ -16,3 +16,5 @@ Cómo agregar artículos
 ![B](https://dixde.github.io/css/cc.PNG)
 * Paso 4: Ir hasta la pate de abajo del documento y dar `Commit changes`
 ![C](https://dixde.github.io/css/bb.PNG)
+* Paso 5: Ir a https://dixde.github.io para visualizar el dicconario y buscar el artículo o https://dixde.github.io/jekyll/update/AAAA/MM/DD/Nombre-del-Articulo.html
+
