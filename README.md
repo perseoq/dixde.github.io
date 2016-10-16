@@ -14,7 +14,8 @@ Cómo agregar artículos
 ![A](https://dixde.github.io/css/aa.PNG)
 * Paso 3: Colocar nombre y extensión
 ![B](https://dixde.github.io/css/cc.PNG)
-* Paso 4: Ir hasta la pate de abajo del documento y dar `Commit changes`
+* Paso 4: Para redactar el artículo deberán conocer los conceptos básicos de uso del markdown, para conocer más [ir a este enlace](http://joedicastro.com/pages/markdown.html). 
+* Paso 5: Ir hasta la parte de abajo del documento y dar `Commit changes`
 ![C](https://dixde.github.io/css/bb.PNG)
-* Paso 5: Ir a https://dixde.github.io para visualizar el dicconario y buscar el artículo o https://dixde.github.io/jekyll/update/AAAA/MM/DD/Nombre-del-Articulo.html
+* Paso 6: Ir a https://dixde.github.io para visualizar el dicconario y buscar el artículo o https://dixde.github.io/jekyll/update/AAAA/MM/DD/Nombre-del-Articulo.html
 
