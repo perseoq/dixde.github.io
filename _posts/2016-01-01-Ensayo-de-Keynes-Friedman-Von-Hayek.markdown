@@ -1,3 +1,6 @@
+---
+title: Ensayo sobre las teorías de Keynes, Friedman y Von Hayek y su aplicación en la historia de la economía mexicana a los largo de la Historia
+---
 
 ## Ensayo sobre las teorías de Keynes, Friedman y Von Hayek y su aplicación en la historia de la economía mexicana a los largo de la Historia
 
