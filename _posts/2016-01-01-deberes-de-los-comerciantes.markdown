@@ -1,5 +1,3 @@
-## Deberes de los comerciantes
-
 Podemos entender como deberes, reglas, leyes y normas que regulan nuestra convivencia en la sociedad. En nuestro caso, hablando de los comerciantes sus deberes son aquellas obligaciones las cuales deberán cumplir para estar bajo un régimen mercantil que impone el Estado. Las obligaciones de un comerciante son:
 
 a) Inscripción en el Registro Público de Comercio, 
