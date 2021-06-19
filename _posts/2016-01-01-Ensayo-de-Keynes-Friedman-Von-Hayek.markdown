@@ -2,8 +2,6 @@
 title: Ensayo sobre las teorías de Keynes, Friedman y Von Hayek y su aplicación en la historia de la economía mexicana a los largo de la Historia
 ---
 
-## Ensayo sobre las teorías de Keynes, Friedman y Von Hayek y su aplicación en la historia de la economía mexicana a los largo de la Historia
-
 El pensamiento de Keynes acerca de que el estado debía regular y apoyar la economía del Estado, para la creación de empleos y así el Estado tuviera un crecimiento acelerado. Este pensamiento fue aplicado desde el sexenio de Lázaro Cardenas hasta José Luis López Portillo. En primera, con la crisis de 1929, el país estaba desestabilizado a nivel económico, sufría una crisis mayor a la que sufrieron nuestros vecinos, los países del norte.
 
 Lazaro Cardenas con la Reforma agraria y la nacionalización del petróleo así como la de los ferrocarriles, le dio gasto al Estado, teniendo un efecto positivo en la economía nacional ya que se pudieron generar empleos que tanto se necesitaban en aquella época. Estos cambios se siguieron dando en los sexenios consecutivos, ya que aplicaron políticas para impulsar empresas estatales, nacionales y extranjeras que comerciaban en el país para que hubiera un mayor crecimiento y más fuentes de trabajo; lagunas de estas empresas quedaron exentas de impuestos y otras tantas se les daba beneficios económicos. También se crearon varias empresas Estatales, el caso de Sosa Texcoco por ejemplo, que ayudo a la capitalización del Estado.
